@@ -1,22 +1,14 @@
-# Disciplina
-
-## Cronograma
-
-<!-- Adicionar cronograma -->
-
-| Data   | Hora  | Conteúdo                           |
-|--------|-------|------------------------------------|
-| 02/SET | 13:30 | Apresentação da disciplina         |
-| 16/SET | 13:30 | Discussão sobre as atividades de C |
-| 18/SET | 10:10 | Fechamento da Unidade 1            |
+# INE5417 - Paradigmas de programação
 
 ## Horários de aula
 
-| Dia     | Hora  |
-|---------|-------|
-| Segunda | 13:30 |
-| Terça   | 13:30 |
-| Quarta  | 10:10 |
+Tudo assíncrono. Oba oba liberado.
+
+## Atividades
+
+As presenças vão ser controladas pelas atividades semanais.
+
+- [Atividade 1](./atividades/1.md)
 
 ## Trabalhos
 
