@@ -1,0 +1,1 @@
+xor(X, Y) :- (not(X) , not(Y)) ; (X , Y).
